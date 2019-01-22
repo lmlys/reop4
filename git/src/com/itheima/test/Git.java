@@ -9,6 +9,13 @@ public class Git {
         System.out.println("啊哈哈");
     }
     public void t(){
+
+
+
+
+        System.out.println("xiugai");
+        System.out.println("xiugai");
+        System.out.println("xiugai");
         System.out.println("xiugai");
     }
 }
