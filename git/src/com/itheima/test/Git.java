@@ -24,5 +24,7 @@ public class Git {
         System.out.println("xiugai");
         System.out.println("xiugai");
         System.out.println("今晚干啥去啊");
+        System.out.println("说话啊，你什么情况？");
+
     }
 }
